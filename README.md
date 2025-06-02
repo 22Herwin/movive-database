@@ -25,5 +25,5 @@ A responsive Movie Search App built using **HTML**, **Bootstrap**, and **JavaScr
 - Creating reusable components like modals dynamically
 - Styling with **Bootstrap** and responsive design principles
 
-- ## Note:
+- ## Note
 - This project i learned from my favorite youtube channel "Shandika Galih"
